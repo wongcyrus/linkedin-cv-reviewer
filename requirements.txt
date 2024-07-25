@@ -2,3 +2,9 @@ openai
 langchain
 langchain-community
 langchain-core
+langchain-openai
+pdf2image
+python-dotenv
+tqdm
+pandas
+openpyxl
